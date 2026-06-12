@@ -1,4 +1,47 @@
-# @react-native-community/progress-view
+(IP_NOTICE.md or INTELLECTUAL_PROPERTY.md)
+SHELF CAT INTELLECTUAL PROPERTY NOTICE
+
+ShelfCat is an autonomous edge intelligence system and architecture invented by Alan Vines.
+
+This includes, but is not limited to:
+- ShelfCat Runtime (Inference Scheduler, Policy Engine, Power Intelligence)
+- Pulse (Pulse 2.0 heartbeat and coordination system)
+- PowerSave energy management subsystem
+- CBN-X semantic compression system
+- Truth Layer (DCT watermarking and provenance system)
+- Edge Mesh distributed compute fabric
+- All associated pipelines, diagrams, workflows, and system designs
+
+Ownership:
+All rights, title, and interest in the ShelfCat system, architecture, and related materials
+are owned by Alan Vines and/or ShelfCat Solutions LLC unless explicitly licensed.
+
+Protection Status:
+- Patent Pending (filed October 25, 2025)
+- Copyright Protected (code, documentation, diagrams)
+- Trade Secret Protection (system design, architecture, optimization methods)
+
+Restrictions:
+No individual, company, or organization may:
+- Copy this architecture
+- Recreate or reverse engineer the system design
+- Use or deploy similar structures derived from this design
+- Commercialize any derivative work
+
+Without prior written authorization.
+
+Attribution Requirement:
+Any authorized use must clearly state:
+
+"Invented by Alan Vines"
+
+Enforcement:
+Unauthorized use may constitute intellectual property infringement and may be subject
+to legal action, financial penalties, and injunction.
+
+Contact:
+For licensing, partnership, or usage rights:
+[ShelfCat Solutions LLC contact info]# @react-native-community/progress-view
 
 [![Build Status][build-badge]][build]
 [![Windows CI Status][windows-ci-badge]][build]
